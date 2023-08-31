@@ -3,28 +3,28 @@
 let numeric = prompt('Введіть число');
 
 	if (numeric == '1')
-			alert ('Січень');
+			alert ('Зима');
 	else if (numeric == '2')
-			alert ('Лютий');
+			alert ('Зима');
 	else if (numeric == '3')
-			alert ('Березень');
+			alert ('Весна');
 	else if (numeric == '4')
-			alert ('Квітень');
+			alert ('Весна');
 	else if (numeric == '5')
-			alert ('Травень');
+			alert ('Весна');
 	else if (numeric == '6')
-			alert ('Червень');
+			alert ('Літо');
 	else if (numeric == '7')
-			alert ('Липень');
+			alert ('Літо');
 	else if (numeric == '8')
-		alert ('Серпень');
+			alert ('Літо');
 	else if (numeric == '9')
-		alert ('Вересень');
+			alert ('Осінь');
 	else if (numeric == '10')
-		alert ('Жовтень');
+			alert ('Осінь');
 	else if (numeric == '11')
-		alert ('Листопад');
+			alert ('Осінь');
 	else if (numeric == '12')
-		alert ('Грудень');
+			alert ('Зима');
 	else if (numeric > '12')
-		alert ('Некоректний ввід!');
+			alert ('Некоректний ввід!');
